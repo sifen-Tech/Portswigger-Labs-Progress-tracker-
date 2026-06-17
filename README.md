@@ -6,13 +6,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 0 of 174
+- **Practitioner**: 1 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 2/18 lab
+- **SQL injection**: 3/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -36,7 +36,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
 | 1  | 2026-06-17 |  SQL injection   |SQL injection vulnerability in WHERE clause allowing retrieval of hidden data                                                                                            | Apprentice  | N/A |
 | 2  | 2026-06-17 | SQL injection    |SQL injection vulnerability allowing login bypass  | Apprentice | N/A |
-| 3  | 2026-00-00 |     |  |  | N/A |
+| 3  | 2026-06-17 |  SQL injection   |SQL injection attack, querying the database type and version on Oracle  | practitioner | N/A |
 | 4  | 2026-00-00 |     |  |  | N/A |
 | 5  | 2026-00-00 |     |  |  | N/A |
 
