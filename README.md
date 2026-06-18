@@ -40,6 +40,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 4  | 2026-06-18 | SQL injection    |SQL injection attack, querying the database type and version on MySQL and Microsoft  |practitioner  | N/A |
 | 5  | 2026-06-18 | SQL injection    |SQL injection attack, listing the database contents on non-Oracle databases  |practitioner  | N/A |
 |6 | 2026-06-18 |SQL injection  | SQL injection attack, listing the database contents on Oracle|practitioner|N/A|
-|7|2026-06-19|SQL injection |SQL injection UNION attack, determining the number of columns returned by the query|N/A|
-|8|2026-06-19|SQL injection |SQL injection UNION attack, finding a column containing text|N/A|
-|9|2026-06-19|SQL injection|SQL injection UNION attack, retrieving data from other tables|N/A|
+|7|2026-06-19|SQL injection |SQL injection UNION attack, determining the number of columns returned by the query|practitioner|N/A|
+|8|2026-06-19|SQL injection |SQL injection UNION attack, finding a column containing text|practitioner|N/A|
+|9|2026-06-19|SQL injection|SQL injection UNION attack, retrieving data from other tables|practitioner|N/A|
