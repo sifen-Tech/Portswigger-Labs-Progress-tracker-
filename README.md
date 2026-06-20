@@ -6,13 +6,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 7 of 174
+- **Practitioner**: 10 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 9/18 lab
+- **SQL injection**: 12/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -43,3 +43,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |7|2026-06-19|SQL injection |SQL injection UNION attack, determining the number of columns returned by the query|practitioner|N/A|
 |8|2026-06-19|SQL injection |SQL injection UNION attack, finding a column containing text|practitioner|N/A|
 |9|2026-06-19|SQL injection|SQL injection UNION attack, retrieving data from other tables|practitioner|N/A|
+|10|2026-06-20|SQL injection|SQL injection UNION attack, retrieving multiple values in a single column|practitioner|N/A|
+|11|2026-06-20|SQL injection|Visible error-based SQL injection|practitioner|N/A|
+|12|2026-06-20|SQL injection|Blind SQL injection with time delays|practitioner|N/A|
