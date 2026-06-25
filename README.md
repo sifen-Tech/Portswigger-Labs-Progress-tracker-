@@ -5,13 +5,13 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 4 of 61
-- **Practitioner**: 10 of 174
+- **Apprentice**: 5 of 61
+- **Practitioner**: 11 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 2/14 lab
+- **Authentication vulnerabilities**: 4/14 lab
 - **SQL injection**: 12/18 lab
 - **Access control**: 0/13 lab
 
@@ -48,3 +48,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |12|2026-06-20|SQL injection|Blind SQL injection with time delays|practitioner|N/A|
 |13|2026-06-23|Authentication vulnerebilities|Username enumeration via different responses|Apprentice|N/A|
 |14|2026-06-23|Authentication vulnerebilities|2FA simple bypass|Apprentice|N/A|
+|15|2026-06-25|Authentication vulnerebilities|Password reset broken logic|Apprentice|N/A|
+|16|2026-06-25|Authentication Vulnerebilities|Password reset poisoning via middleware|Practitioner|N/A|
