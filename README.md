@@ -51,8 +51,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |15|2026-06-25|Authentication vulnerebilities|Password reset broken logic|Apprentice|N/A|
 |16|2026-06-25|Authentication Vulnerebilities|Password reset poisoning via middleware|Practitioner|N/A|
 |17|2026-06-26|SQL injection|SQL injection with filter bypass via XML encoding|practitioner|N/A|
-|18|2026-06-26|Authentication|Offline password cracking|practitioner|N/A|
-|19|2026-06-26|Authentication|Password brute-force via password change|practitioner|N/A|
+|18|2026-06-26|Authentication vulnerebilities|Offline password cracking|practitioner|N/A|
+|19|2026-06-26|Authentication vulnerebilities|Password brute-force via password change|practitioner|N/A|
 |20|2026-06-28|SQL injection|Blind SQL injection with conditional errors|practitioner|N/A|
-|21|2026-06-28|Authentication|Broken brute-force protection, IP block|practitioner|N/A|
-|22|2026-06-28|Authentication|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
+|21|2026-06-28|Authentication vulnerebilities|Broken brute-force protection, IP block|practitioner|N/A|
+|22|2026-06-28|Authentication vulnerebilities|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
