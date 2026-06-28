@@ -6,13 +6,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 5 of 61
-- **Practitioner**: 14 of 174
+- **Practitioner**: 17 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 6/14 lab
-- **SQL injection**: 13/18 lab
+- **Authentication vulnerabilities**: 8/14 lab
+- **SQL injection**: 14/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -53,3 +53,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |17|2026-06-26|SQL injection|SQL injection with filter bypass via XML encoding|practitioner|N/A|
 |18|2026-06-26|Authentication|Offline password cracking|practitioner|N/A|
 |19|2026-06-26|Authentication|Password brute-force via password change|practitioner|N/A|
+|20|2026-06-28|SQL injection|Blind SQL injection with conditional errors|practitioner|N/A|
+|21|2026-06-28|Authentication|Broken brute-force protection, IP block|practitioner|N/A|
+|22|2026-06-28|Authentication|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
