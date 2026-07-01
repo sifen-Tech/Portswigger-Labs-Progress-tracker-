@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 6 of 61
-- **Practitioner**: 22 of 174
+- **Apprentice**: 7 of 61
+- **Practitioner**: 25 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -15,6 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 14/18 lab
 - **Access control**: 0/13 lab
 - **Path traversal**: 6/6 lab
+- **OS Command injection**:4/5 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -57,11 +58,19 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |20|2026-06-28|SQL injection|Blind SQL injection with conditional errors|practitioner|N/A|
 |21|2026-06-28|Authentication vulnerebilities|Broken brute-force protection, IP block|practitioner|N/A|
 |22|2026-06-28|Authentication vulnerebilities|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
-|23|2026-06-30|Path traversal|File path traversal, simple case|APPRENTICE|N/A|
+|23|2026-06-30|Path traversal|File path traversal, simple case|Apprentice|N/A|
 |24|2026-06-30|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|practitioner|N/A|
 |25|2026-06-30|Path traversal| File path traversal, traversal sequences stripped non-recursively|practitioner|N/A|
 |26|2026-06-30|Path traversal|  File path traversal, traversal sequences stripped with superfluous URL-decode|practitioner|N/A|
 |27|2026-06-30|Path traversal| File path traversal, validation of start of path|practitioner|N/A|
 |28|2026-06-30|Path traversal| File path traversal, validation of file extension with null byte bypass|practitioner|N/A|
+|29|2026-07-02|OS Command injection| OS command injection, simple case|Apprentice|N/A|
+|30|2026-07-02|OS Command injection|  Blind OS command injection with time delays|Practitioner|N/A|
+|31|2026-07-02|OS Command injection|  Blind OS command injection with output redirection|Practitioner|N/A|
+|32|2026-07-02|OS Command injection|  Blind OS command injection with out-of-band interaction|Practitioner|N/A|
+
+
+
+
 
 
