@@ -6,16 +6,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 7 of 61
-- **Practitioner**: 25 of 174
+- **Practitioner**: 27 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 8/14 lab
+- **Authentication vulnerabilities**: 9/14 lab
 - **SQL injection**: 14/18 lab
 - **Access control**: 0/13 lab
 - **Path traversal**: 6/6 lab
-- **OS Command injection**:4/5 lab
+- **OS Command injection**:5/5 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -68,6 +68,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |30|2026-07-02|OS Command injection|  Blind OS command injection with time delays|Practitioner|N/A|
 |31|2026-07-02|OS Command injection|  Blind OS command injection with output redirection|Practitioner|N/A|
 |32|2026-07-02|OS Command injection|  Blind OS command injection with out-of-band interaction|Practitioner|N/A|
+|33|2026-07-05|Authentication vulnerebility|2FA broken logic|practitioner|N/A|
+|34|2026-07-05|OS Command injection|Blind OS command injection with out-of-band data exfiltration|practitioner|N/A|
 
 
 
