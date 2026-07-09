@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 11 of 61
+- **Apprentice**: 12 of 61
 - **Practitioner**: 30 of 174
 - **Expert**: 0 of 39
 
@@ -13,9 +13,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 - **Authentication vulnerabilities**: 12/14 lab
 - **SQL injection**: 14/18 lab
-- **Access control**: 4/13 lab
+- **Access control**: 5/13 lab
 - **Path traversal**: 6/6 lab
 - **OS Command injection**:5/5 lab
+- **Information disclosure**:1/5
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -77,6 +78,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |39|2026-07-07|Access control|Unprotected admin functionality with unpredictable URL|Apperentice|N/A|
 |40|2026-07-08|Access control|User role controlled by request parameter|Apprentice|N/A|
 |41|2026-07-08|Access control|User role can be modified in user profile|Apprentice|N/A|
+|42|2026-07-09|Access control| Insecure direct object references|Apprentice|N/A|
+|43|2026-07-09|Information disclosure |Information disclosure in error messages|Apprentice|N/A|
+
 
 
 
