@@ -6,14 +6,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 17 of 61
-- **Practitioner**: 30 of 174
+- **Practitioner**: 32 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 12/14 lab
 - **SQL injection**: 14/18 lab
-- **Access control**: 9/13 lab
+- **Access control**: 11/13 lab
 - **Path traversal**: 6/6 lab
 - **OS Command injection**:5/5 lab
 - **Information disclosure**:1/5
@@ -84,6 +84,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |45|2026-07-11|Access control|  User ID controlled by request parameter with data leakage in redirect|Apprentice|N/A|
 |46|2026-07-11|Access control| User ID controlled by request parameter, with unpredictable user IDs|Apprentice|N/A|
 |47|2026-07-11|Access control| User ID controlled by request parameter with password disclosure|Apprentice|N/A|
+|48|2026-07-13|Access control| URL-based access control can be circumvented|practitioner|N/A|
+|49|2026-07-13|Access control| Method-based access control can be circumvented|practitioner|N/A|
 
 
 
