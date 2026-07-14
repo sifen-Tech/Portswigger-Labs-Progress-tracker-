@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 17 of 61
+- **Apprentice**: 19 of 61
 - **Practitioner**: 32 of 174
 - **Expert**: 0 of 39
 
@@ -17,6 +17,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path traversal**: 6/6 lab
 - **OS Command injection**:5/5 lab
 - **Information disclosure**:1/5
+- **File upload vulnerabilities**:2/7
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -86,6 +87,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |47|2026-07-11|Access control| User ID controlled by request parameter with password disclosure|Apprentice|N/A|
 |48|2026-07-13|Access control| URL-based access control can be circumvented|practitioner|N/A|
 |49|2026-07-13|Access control| Method-based access control can be circumvented|practitioner|N/A|
+|50|2026-07-14|File upload vulnerabilities| Remote code execution via web shell upload|Apprentice|N/A|
+|51|2026-07-14|File upload vulnerabilities| Web shell upload via Content-Type restriction bypass|Apprentice|N/A|
 
 
 
