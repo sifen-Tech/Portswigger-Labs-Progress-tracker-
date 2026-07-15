@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 19 of 61
-- **Practitioner**: 34 of 174
+- **Practitioner**: 36 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -17,7 +17,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path traversal**: 6/6 lab
 - **OS Command injection**:5/5 lab
 - **Information disclosure**:1/5
-- **File upload vulnerabilities**:4/7
+- **File upload vulnerabilities**:6/7
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -91,6 +91,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |51|2026-07-14|File upload vulnerabilities| Web shell upload via Content-Type restriction bypass|Apprentice|N/A|
 |52|2026-07-15|File upload vulnerabilities| Web shell upload via path traversal|practitioner|N/A|
 |53|2026-07-15|File upload vulnerabilities|Web shell upload via extension blacklist bypass|practitioner|N/A|
+|54|2026-07-16|File upload vulnerabilities|Web shell upload via obfuscated file extension|practitioner|N/A|
+|55|2026-07-16|File upload vulnerabilities| Remote code execution via polyglot web shell upload|practitioner|N/A|
 
 
 
