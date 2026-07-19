@@ -98,8 +98,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |57|2026-07-17|Access control| Referer-based access control|practitioner|N/A|
 |58|2026-07-18|Business logic vulneribilities| Excessive trust in client-side controls|Apprentice|N/A|
 |59|2026-07-18|Business logic vulneribilities| High-level logic vulnerability|Apprentice|N/A|
-|60|2026-07-18|Business logic vulneribilities| Inconsistent security controls|Apprentice|N/A|
-|61|2026-07-18|Business logic vulneribilities| Flawed enforcement of business rules|Apprentice|N/A|
+|60|2026-07-19|Business logic vulneribilities| Inconsistent security controls|Apprentice|N/A|
+|61|2026-07-19|Business logic vulneribilities| Flawed enforcement of business rules|Apprentice|N/A|
 
 
 
