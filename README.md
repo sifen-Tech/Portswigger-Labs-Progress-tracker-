@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 25 of 61
-- **Practitioner**: 36 of 174
+- **Apprentice**: 26 of 61
+- **Practitioner**: 37 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -19,6 +19,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Information disclosure**:1/5
 - **File upload vulnerabilities**:6/7
 - **Business logic vulnerebilities**:4/12
+- **Race conditions**:2/6
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -100,6 +101,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |59|2026-07-18|Business logic vulneribilities| High-level logic vulnerability|Apprentice|N/A|
 |60|2026-07-19|Business logic vulneribilities| Inconsistent security controls|Apprentice|N/A|
 |61|2026-07-19|Business logic vulneribilities| Flawed enforcement of business rules|Apprentice|N/A|
+|62|2026-07-22|Race conditions|Limit overrun race conditions|Apprentice|N/A|
+|63|2026-07-22|Race conditions|Bypassing rate limits via race conditions|practitioner|N/A|
 
 
 
