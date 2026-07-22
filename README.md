@@ -60,16 +60,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |18|2026-06-26|Authentication vulnerebilities|Offline password cracking|practitioner|N/A|
 |19|2026-06-26|Authentication vulnerebilities|Password brute-force via password change|practitioner|N/A|
 |20|2026-06-28|SQL injection|Blind SQL injection with conditional errors|practitioner|N/A|
-|21|2026-06-28|Authentication vulnerebilities|Broken brute-force protection, IP block|practitioner|### Exploitation Steps
-
-1. Intercepted the login request using **Burp Suite Proxy**.
-2. Sent the intercepted request to **Burp Intruder**.
-3. Added payload positions for the **username** and **password** parameters.
-4. Selected the **Pitchfork** attack type. For the username payload, I created an alternating list containing **`wiener`** and **`carlos`**.
-5. For the password payload, I created an alternating list containing the known valid password **`peter`** and the target **password wordlist**. Both payload lists were the same length so that Pitchfork paired each username with its corresponding password.
-6. Set **Maximum concurrent requests** to **1** to avoid triggering the IP-based brute-force protection.
-7. Started the Pitchfork attack and identified the correct password for **carlos** from the successful response.
-8. Logged in with the discovered credentials and successfully accessed Carlos's account, completing the lab.|
+|21|2026-06-28|Authentication vulnerebilities|Broken brute-force protection, IP block|practitioner|N/A|
 
 |22|2026-06-28|Authentication vulnerebilities|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
 |23|2026-06-30|Path traversal|File path traversal, simple case|Apprentice|N/A|
