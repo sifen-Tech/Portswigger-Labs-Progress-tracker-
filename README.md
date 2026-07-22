@@ -69,8 +69,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 5. For the password payload, I created an alternating list containing the known valid password **`peter`** and the target **password wordlist**. Both payload lists were the same length so that Pitchfork paired each username with its corresponding password.
 6. Set **Maximum concurrent requests** to **1** to avoid triggering the IP-based brute-force protection.
 7. Started the Pitchfork attack and identified the correct password for **carlos** from the successful response.
-8. Logged in with the discovered credentials and successfully accessed Carlos's account, completing the lab.
-|
+8. Logged in with the discovered credentials and successfully accessed Carlos's account, completing the lab.|
+
 |22|2026-06-28|Authentication vulnerebilities|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
 |23|2026-06-30|Path traversal|File path traversal, simple case|Apprentice|N/A|
 |24|2026-06-30|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|practitioner|N/A|
