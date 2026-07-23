@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 26 of 61
-- **Practitioner**: 37 of 174
+- **Practitioner**: 40 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -18,7 +18,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **OS Command injection**:5/5 lab
 - **Information disclosure**:1/5
 - **File upload vulnerabilities**:6/7
-- **Business logic vulnerebilities**:4/12
+- **Business logic vulnerebilities**:7/12
 - **Race conditions**:2/6
 
 ## Notes
@@ -103,6 +103,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |61|2026-07-19|Business logic vulneribilities| Flawed enforcement of business rules|Apprentice|N/A|
 |62|2026-07-22|Race conditions|Limit overrun race conditions|Apprentice|N/A|
 |63|2026-07-22|Race conditions|Bypassing rate limits via race conditions|practitioner|N/A|
+|64|2026-07-23|Business logic vulneribilities|Authentication bypass via flawed state machine|practitioner|N/A|
+|65|2026-07-23|Business logic vulneribilities| Insufficient workflow validation|practitioner|N/A|
+|66|2026-07-23|Business logic vulneribilities|Weak isolation on dual-use endpoint|practitioner|N/A|
 
 
 
