@@ -47,4 +47,4 @@ Attackers can bypass weak brute-force protection and compromise user accounts.
 
 ## Screenshot
 
-![alt text](image.png)
+![Lab solved](image.png)
