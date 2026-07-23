@@ -60,7 +60,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |18|2026-06-26|Authentication vulnerebilities|Offline password cracking|practitioner|N/A|
 |19|2026-06-26|Authentication vulnerebilities|Password brute-force via password change|practitioner|N/A|
 |20|2026-06-28|SQL injection|Blind SQL injection with conditional errors|practitioner|N/A|
-|21|2026-06-28|Authentication vulnerebilities|Broken brute-force protection, IP block|practitioner|N/A|
+|21|2026-06-28|Authentication vulnerebilities|Broken brute-force protection, IP block|practitioner|[Link](https://github.com/sifen-Tech/Portswigger-Labs-Progress-tracker-/blob/main/portswigger_write-up/write-up.md)|
 |22|2026-06-28|Authentication vulnerebilities|Brute-forcing a stay-logged-in cookie|practitioner|N/A|
 |23|2026-06-30|Path traversal|File path traversal, simple case|Apprentice|N/A|
 |24|2026-06-30|Path traversal|File path traversal, traversal sequences blocked with absolute path bypass|practitioner|N/A|
