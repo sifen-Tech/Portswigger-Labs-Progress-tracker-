@@ -52,7 +52,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |10|2026-06-20|SQL injection|SQL injection UNION attack, retrieving multiple values in a single column|practitioner|N/A|
 |11|2026-06-20|SQL injection|Visible error-based SQL injection|practitioner|N/A|
 |12|2026-06-20|SQL injection|Blind SQL injection with time delays|practitioner|N/A|
-|13|2026-06-23|Authentication vulnerebilities|Username enumeration via different responses|Apprentice|N/A|
+|13|2026-06-23|Authentication vulnerebilities|Username enumeration via different responses|Apprentice|[this](https://github.com/sifen-Tech/Portswigger-Labs-Progress-tracker-/blob/main/portswigger_write-up/write-up)|
 |14|2026-06-23|Authentication vulnerebilities|2FA simple bypass|Apprentice|N/A|
 |15|2026-06-25|Authentication vulnerebilities|Password reset broken logic|Apprentice|N/A|
 |16|2026-06-25|Authentication Vulnerebilities|Password reset poisoning via middleware|Practitioner|N/A|
