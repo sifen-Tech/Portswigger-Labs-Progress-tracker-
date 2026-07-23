@@ -1,1 +1,50 @@
-hello
+# Broken Brute-Force Protection, IP Block
+
+## Platform
+
+PortSwigger Web Security Academy
+
+## Difficulty
+
+Practitioner
+
+## Category
+
+Authentication Vulnerabilities
+
+## Exploitation Steps
+
+1. Intercepted the login request using **Burp Suite Proxy**.
+
+2. Sent the intercepted request to **Burp Intruder**.
+
+3. Added payload positions for the **username** and **password** parameters.
+
+4. Selected the **Pitchfork** attack type. For the username payload, I created an alternating list containing:
+   - `wiener`
+   - `carlos`
+
+5. For the password payload, I created an alternating list containing:
+   - `peter`
+   - `candidate password list`
+
+   Both payload lists contained the same number of entries because Pitchfork matches values from each list together.
+
+6. Set **Maximum concurrent requests** to `1` to avoid triggering the IP block protection.
+
+7. Started the attack and identified the valid password for `carlos` from the successful response.
+
+8. Logged in using the discovered credentials and completed the lab.
+
+## Impact
+
+Attackers can bypass weak brute-force protection and compromise user accounts.
+
+## Tools Used
+
+- Burp Suite Intruder
+- PortSwigger Web Security Academy
+
+## Screenshot
+
+![alt text](image.png)
