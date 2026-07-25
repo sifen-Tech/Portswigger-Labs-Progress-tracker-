@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 30 of 61
+- **Apprentice**: 32 of 61
 - **Practitioner**: 40 of 174
 - **Expert**: 0 of 39
 
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **File upload vulnerabilities**:6/7
 - **Business logic vulnerebilities**:8/12
 - **Race conditions**:2/6
-- **Cross-site-scripting**:3/30
+- **Cross-site-scripting**:5/30
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -111,6 +111,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |68|2026-07-25|Cross-site-scripting|Reflected XSS into HTML context with nothing encoded|Apprenticer|N/A|
 |69|2026-07-25|Cross-site-scripting|Stored XSS into HTML context with nothing encoded|Apprenticer|N/A|
 |70|2026-07-25|Cross-site-scripting| DOM XSS in document.write sink using source location.search|Apprenticer|N/A|
+|71|2026-07-26|Cross-site-scripting| DOM XSS in innerHTML sink using source location.search|Apprenticer|N/A|
+|72|2026-07-26|Cross-site-scripting|DOM XSS in jQuery anchor href attribute sink using location.search source|Apprenticer|N/A|
 
 
 
