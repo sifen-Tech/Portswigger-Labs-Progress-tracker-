@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 33 of 61
+- **Apprentice**: 34 of 61
 - **Practitioner**: 40 of 174
 - **Expert**: 0 of 39
 
@@ -115,6 +115,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |71|2026-07-26|Cross-site-scripting| DOM XSS in inner HTML sink using source location.search| Apprentice |N/A|
 |72|2026-07-26|Cross-site-scripting|DOM XSS in jQuery anchor href attribute sink using location.search source | Apprentice |N/A|
 |73|2026-07-28|Server-side request forgery |Basic SSRF against the local server | Apprentice | N/A|
+|74|2026-07-28|Server-side request forgery |Basic SSRF against another back-end system | Apprentice | N/A|
 
 
 
