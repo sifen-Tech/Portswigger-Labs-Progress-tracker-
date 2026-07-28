@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 32 of 61
+- **Apprentice**: 33 of 61
 - **Practitioner**: 40 of 174
 - **Expert**: 0 of 39
 
@@ -18,9 +18,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **OS Command injection**:5/5 lab
 - **Information disclosure**:1/5
 - **File upload vulnerabilities**:6/7
-- **Business logic vulnerebilities**:8/12
+- **Business logic vulnerability**:8/12
 - **Race conditions**:2/6
 - **Cross-site-scripting**:5/30
+- **Server-side request forgery (SSRF)**:1/5
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -107,12 +108,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |64|2026-07-23|Business logic vulneribilities|Authentication bypass via flawed state machine|practitioner|N/A|
 |65|2026-07-23|Business logic vulneribilities| Insufficient workflow validation|practitioner|N/A|
 |66|2026-07-23|Business logic vulneribilities|Weak isolation on dual-use endpoint|practitioner|N/A|
-|67|2026-07-24|Business logic vulnerabilities|Inconsistent security controls|Apprenticer|N/A|
-|68|2026-07-25|Cross-site-scripting|Reflected XSS into HTML context with nothing encoded|Apprenticer|N/A|
-|69|2026-07-25|Cross-site-scripting|Stored XSS into HTML context with nothing encoded|Apprenticer|N/A|
-|70|2026-07-25|Cross-site-scripting| DOM XSS in document.write sink using source location.search|Apprenticer|N/A|
-|71|2026-07-26|Cross-site-scripting| DOM XSS in innerHTML sink using source location.search|Apprenticer|N/A|
-|72|2026-07-26|Cross-site-scripting|DOM XSS in jQuery anchor href attribute sink using location.search source|Apprenticer|N/A|
+|67|2026-07-24|Business logic vulnerabilities|Inconsistent security controls|Apprentice|N/A|
+|68|2026-07-25|Cross-site-scripting|Reflected XSS into HTML context with nothing encoded|Apprentice|N/A|
+|69|2026-07-25|Cross-site-scripting|Stored XSS into HTML context with nothing encoded|Apprentice|N/A|
+|70|2026-07-25|Cross-site-scripting| DOM XSS in document.write sink using source location.search|Apprentice|N/A|
+|71|2026-07-26|Cross-site-scripting| DOM XSS in inner HTML sink using source location.search| Apprentice |N/A|
+|72|2026-07-26|Cross-site-scripting|DOM XSS in jQuery anchor href attribute sink using location.search source | Apprentice |N/A|
+|73|2026-07-28|Server-side request forgery |Basic SSRF against the local server | Apprentice | N/A|
+
+
+
+
 
 
 
