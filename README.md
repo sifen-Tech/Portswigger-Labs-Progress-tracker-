@@ -21,7 +21,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerability**:8/12
 - **Race conditions**:2/6
 - **Cross-site-scripting**:5/30
-- **Server-side request forgery (SSRF)**:4/5
+- **Server-side request forgery (SSRF)**:4/7
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
