@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 34 of 61
-- **Practitioner**: 40 of 174
+- **Practitioner**: 42 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -21,7 +21,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Business logic vulnerability**:8/12
 - **Race conditions**:2/6
 - **Cross-site-scripting**:5/30
-- **Server-side request forgery (SSRF)**:1/5
+- **Server-side request forgery (SSRF)**:4/5
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -116,6 +116,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |72|2026-07-26|Cross-site-scripting|DOM XSS in jQuery anchor href attribute sink using location.search source | Apprentice |N/A|
 |73|2026-07-28|Server-side request forgery |Basic SSRF against the local server | Apprentice | N/A|
 |74|2026-07-28|Server-side request forgery |Basic SSRF against another back-end system | Apprentice | N/A|
+|75|2026-07-29|Server-side request forgery |Blind SSRF with out-of-band detection |practitioner| N/A|
+|76|2026-07-29|Server-side request forgery |SSRF with blacklist-based input filter | practitioner | N/A|
 
 
 
