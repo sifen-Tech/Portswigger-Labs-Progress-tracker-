@@ -118,8 +118,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |74|2026-07-28|Server-side request forgery |Basic SSRF against another back-end system | Apprentice | N/A|
 |75|2026-07-29|Server-side request forgery |Blind SSRF with out-of-band detection |practitioner| N/A|
 |76|2026-07-29|Server-side request forgery |SSRF with blacklist-based input filter | practitioner | N/A|
-|79|2026-07-30|Server-side request forgery |SSRF with filter bypass via open redirection vulnerability
- | practitioner | N/A|
+|79|2026-07-30|Server-side request forgery |SSRF with filter bypass via open redirection vulnerability| practitioner | N/A|
 
 
 
