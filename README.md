@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 34 of 61
+- **Apprentice**: 35 of 61
 - **Practitioner**: 43 of 174
 - **Expert**: 0 of 39
 
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **File upload vulnerabilities**:6/7
 - **Business logic vulnerability**:8/12
 - **Race conditions**:2/6
-- **Cross-site-scripting**:5/30
+- **Cross-site-scripting**:6/30
 - **Server-side request forgery (SSRF)**:5/7
 
 ## Notes
@@ -119,6 +119,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |75|2026-07-29|Server-side request forgery |Blind SSRF with out-of-band detection |practitioner| N/A|
 |76|2026-07-29|Server-side request forgery |SSRF with blacklist-based input filter | practitioner | N/A|
 |79|2026-07-30|Server-side request forgery |SSRF with filter bypass via open redirection vulnerability| practitioner | N/A|
+|80|2026-08-01|Cross-site-scripting |DOM XSS in jQuery selector sink using a hashchange event | Apprentice | N/A|
 
 
 
