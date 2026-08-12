@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 39 of 61
-- **Practitioner**: 48 of 174
+- **Practitioner**: 50 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **File upload vulnerabilities**:6/7
 - **Business logic vulnerability**:8/12
 - **Race conditions**:2/6
-- **Cross-site-scripting**:12/30
+- **Cross-site-scripting**:14/30
 - **Server-side request forgery (SSRF)**:5/7
 - **GraphQL API vulnerabilities**:3/5
 
@@ -130,6 +130,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |87|2026-08-09|GraphQL API  |Finding a hidden GraphQL endpoint| practitioner| N/A|
 |88|2026-08-09|Cross-site-scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded| practitioner| N/A|
 |89|2026-08-09|Cross-site-scripting  |Reflected DOM XSS| practitioner| N/A|
+|90|2026-08-12|Cross-site-scripting  |Stored DOM XSS| practitioner| N/A|
+|91|2026-08-12|Cross-site-scripting   |Reflected XSS into HTML context with most tags and attributes blocked| practitioner| N/A|
 
 
 
