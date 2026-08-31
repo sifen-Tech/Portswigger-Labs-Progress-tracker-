@@ -120,22 +120,22 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |74|2026-07-28|Server-side request forgery |Basic SSRF against another back-end system | Apprentice | N/A|
 |75|2026-07-29|Server-side request forgery |Blind SSRF with out-of-band detection |practitioner| N/A|
 |76|2026-07-29|Server-side request forgery |SSRF with blacklist-based input filter | practitioner | N/A|
-|79|2026-07-30|Server-side request forgery |SSRF with filter bypass via open redirection vulnerability| practitioner | N/A|
-|80|2026-08-01|Cross-site-scripting |DOM XSS in jQuery selector sink using a hashchange event | Apprentice | N/A|
-|81|2026-08-02|Cross-site-scripting |Reflected XSS into attribute with angle brackets HTML-encoded | Apprentice | N/A|
-|82|2026-08-02|Cross-site-scripting |Stored XSS into anchor href attribute with double quotes HTML-encoded | Apprentice | N/A|
-|83|2026-08-04|Cross-site-scripting |Reflected XSS into a JavaScript string with angle brackets HTML encoded | Apprentice | N/A|
-|84|2026-08-04|Cross-site-scripting |DOM XSS in document.write sink using source location.search inside a select element | practitioner| N/A|
-|85|2026-08-05|GraphQL API  |Accessing private GraphQL posts | Apprentice| N/A|
-|86|2026-08-05|GraphQL API  |Accidental exposure of private GraphQL fields | practitioner| N/A|
-|87|2026-08-09|GraphQL API  |Finding a hidden GraphQL endpoint| practitioner| N/A|
-|88|2026-08-09|Cross-site-scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded| practitioner| N/A|
-|89|2026-08-09|Cross-site-scripting  |Reflected DOM XSS| practitioner| N/A|
-|90|2026-08-12|Cross-site-scripting  |Stored DOM XSS| practitioner| N/A|
-|91|2026-08-12|Cross-site-scripting   |Reflected XSS into HTML context with most tags and attributes blocked| practitioner| N/A|
-|92|2026-08-31|Cross-site request forgery (CSRF)  |CSRF vulnerability with no defenses|Apprentice| N/A|
-|93|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on request method| practitioner| N/A|
-|94|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on token being present| practitioner| N/A|
+|77|2026-07-30|Server-side request forgery |SSRF with filter bypass via open redirection vulnerability| practitioner | N/A|
+|78|2026-08-01|Cross-site-scripting |DOM XSS in jQuery selector sink using a hashchange event | Apprentice | N/A|
+|79|2026-08-02|Cross-site-scripting |Reflected XSS into attribute with angle brackets HTML-encoded | Apprentice | N/A|
+|80|2026-08-02|Cross-site-scripting |Stored XSS into anchor href attribute with double quotes HTML-encoded | Apprentice | N/A|
+|81|2026-08-04|Cross-site-scripting |Reflected XSS into a JavaScript string with angle brackets HTML encoded | Apprentice | N/A|
+|82|2026-08-04|Cross-site-scripting |DOM XSS in document.write sink using source location.search inside a select element | practitioner| N/A|
+|83|2026-08-05|GraphQL API  |Accessing private GraphQL posts | Apprentice| N/A|
+|84|2026-08-05|GraphQL API  |Accidental exposure of private GraphQL fields | practitioner| N/A|
+|85|2026-08-09|GraphQL API  |Finding a hidden GraphQL endpoint| practitioner| N/A|
+|86|2026-08-09|Cross-site-scripting  |DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded| practitioner| N/A|
+|87|2026-08-09|Cross-site-scripting  |Reflected DOM XSS| practitioner| N/A|
+|88|2026-08-12|Cross-site-scripting  |Stored DOM XSS| practitioner| N/A|
+|89|2026-08-12|Cross-site-scripting   |Reflected XSS into HTML context with most tags and attributes blocked| practitioner| N/A|
+|90|2026-08-31|Cross-site request forgery (CSRF)  |CSRF vulnerability with no defenses|Apprentice| N/A|
+|91|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on request method| practitioner| N/A|
+|92|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on token being present| practitioner| N/A|
 
 
 
