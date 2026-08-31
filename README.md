@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 39 of 61
-- **Practitioner**: 50 of 174
+- **Apprentice**: 40 of 61
+- **Practitioner**: 52 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -23,6 +23,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site-scripting**:14/30
 - **Server-side request forgery (SSRF)**:5/7
 - **GraphQL API vulnerabilities**:3/5
+- **Cross-site request forgery (CSRF)**:3/11
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -132,9 +133,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |89|2026-08-09|Cross-site-scripting  |Reflected DOM XSS| practitioner| N/A|
 |90|2026-08-12|Cross-site-scripting  |Stored DOM XSS| practitioner| N/A|
 |91|2026-08-12|Cross-site-scripting   |Reflected XSS into HTML context with most tags and attributes blocked| practitioner| N/A|
-
-
-
+|92|2026-08-31|Cross-site request forgery (CSRF)  |CSRF vulnerability with no defenses|Apprentice| N/A|
+|93|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on request method| practitioner| N/A|
+|94|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on token being present| practitioner| N/A|
 
 
 
