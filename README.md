@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 40 of 61
-- **Practitioner**: 52 of 174
+- **Practitioner**: 55 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -136,6 +136,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |90|2026-08-31|Cross-site request forgery (CSRF)  |CSRF vulnerability with no defenses|Apprentice| N/A|
 |91|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on request method| practitioner| N/A|
 |92|2026-08-31|Cross-site request forgery (CSRF)  |CSRF where token validation depends on token being present| practitioner| N/A|
+|93|2026-09-01|Cross-site request forgery (CSRF)  |CSRF where token is not tied to user session| practitioner| N/A|
+|94|2026-09-01|Cross-site request forgery (CSRF)  |CSRF where token is tied to non-session cookie| practitioner| N/A|
+|95|2026-09-01|Cross-site request forgery (CSRF)  |CSRF where token is duplicated in cookie| practitioner| N/A|
 
 
 
