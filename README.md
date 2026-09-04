@@ -6,8 +6,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 40 of 61
-- **Practitioner**: 61 of 174
-- **Expert**: 0 of 39
+- **Practitioner**: 63 of 174
+- **Expert**: 1 of 39
 
 ## Categories Covered
 
@@ -24,7 +24,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Server-side request forgery (SSRF)**:5/7
 - **GraphQL API vulnerabilities**:3/5
 - **Cross-site request forgery (CSRF)**:9/11
-- **Server-side template injection**:3/7
+- **Server-side template injection**:6/7
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -146,6 +146,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |99|2026-09-03|Server-side template injection  |Basic server-side template injection| practitioner| N/A|
 |100|2026-09-03|Server-side template injection  |Basic server-side template injection (code context)| practitioner| N/A|
 |101|2026-09-03|Server-side template injection  |Server-side template injection using documentation| practitioner| N/A|
+|102|2026-09-04|Server-side template injection  |Server-side template injection in an unknown language with a documented exploit| practitioner| N/A|
+|103|2026-09-04|Server-side template injection  |Server-side template injection with information disclosure via user-supplied objects| practitioner| N/A|
+|104|2026-09-04|Server-side template injection  | Server-side template injection in a sandboxed environment| practitioner| N/A|
 
 
 
