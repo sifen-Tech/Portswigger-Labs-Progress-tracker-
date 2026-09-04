@@ -148,7 +148,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |101|2026-09-03|Server-side template injection  |Server-side template injection using documentation| practitioner| N/A|
 |102|2026-09-04|Server-side template injection  |Server-side template injection in an unknown language with a documented exploit| practitioner| N/A|
 |103|2026-09-04|Server-side template injection  |Server-side template injection with information disclosure via user-supplied objects| practitioner| N/A|
-|104|2026-09-04|Server-side template injection  | Server-side template injection in a sandboxed environment| practitioner| N/A|
+|104|2026-09-04|Server-side template injection  | Server-side template injection in a sandboxed environment| EXPERT| N/A|
 
 
 
