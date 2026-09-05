@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 40 of 61
-- **Practitioner**: 63 of 174
+- **Practitioner**: 66 of 174
 - **Expert**: 1 of 39
 
 ## Categories Covered
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **File upload vulnerabilities**:6/7
 - **Business logic vulnerability**:8/12
 - **Race conditions**:2/6
-- **Cross-site-scripting**:14/30
+- **Cross-site-scripting**:17/30
 - **Server-side request forgery (SSRF)**:5/7
 - **GraphQL API vulnerabilities**:3/5
 - **Cross-site request forgery (CSRF)**:9/11
@@ -149,6 +149,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 |102|2026-09-04|Server-side template injection  |Server-side template injection in an unknown language with a documented exploit| practitioner| N/A|
 |103|2026-09-04|Server-side template injection  |Server-side template injection with information disclosure via user-supplied objects| practitioner| N/A|
 |104|2026-09-04|Server-side template injection  | Server-side template injection in a sandboxed environment| EXPERT| N/A|
+|105|2026-09-05|Reflected XSS into HTML context with all tags blocked except custom ones| practitioner| N/A|
+|106|2026-09-05|Reflected XSS with some SVG markup allowed  |Stored DOM XSS| practitioner| N/A|
+|107|2026-09-05|Reflected XSS in canonical link tag  |Stored DOM XSS| practitioner| N/A|
 
 
 
