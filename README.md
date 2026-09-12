@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 40 of 61
-- **Practitioner**: 75 of 174
+- **Practitioner**: 78 of 174
 - **Expert**: 1 of 39
 
 ## Categories Covered
@@ -25,7 +25,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **GraphQL API vulnerabilities**:3/5
 - **Cross-site request forgery (CSRF)**:9/11
 - **Server-side template injection**:6/7
-- **HTTP request smuggling**:4/22
+- **HTTP request smuggling**:7/22
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -162,6 +162,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 114|2026-09-08|HTTP request smuggling | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses| practitioner| N/A|
 115|2026-09-11|HTTP request smuggling |Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability| practitioner| N/A|
 116|2026-09-11|HTTP request smuggling | Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability| practitioner| N/A|
+117|2026-09-12|HTTP request smuggling | Exploiting HTTP request smuggling to reveal front-end request rewriting| practitioner| N/A|
+118|2026-09-12|HTTP request smuggling | Exploiting HTTP request smuggling to capture other users' requests| practitioner| N/A|
+119|2026-09-12|HTTP request smuggling | Exploiting HTTP request smuggling to deliver reflected XSS| practitioner| N/A|
+
 
 
 
