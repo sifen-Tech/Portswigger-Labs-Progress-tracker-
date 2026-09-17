@@ -6,7 +6,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Level progress
 - **Apprentice**: 40 of 61
-- **Practitioner**: 78 of 174
+- **Practitioner**: 81 of 174
 - **Expert**: 1 of 39
 
 ## Categories Covered
@@ -26,6 +26,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site request forgery (CSRF)**:9/11
 - **Server-side template injection**:6/7
 - **HTTP request smuggling**:7/22
+- **DOM-based vulnerabilities**:3/6
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -165,6 +166,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 117|2026-09-12|HTTP request smuggling | Exploiting HTTP request smuggling to reveal front-end request rewriting| practitioner| N/A|
 118|2026-09-12|HTTP request smuggling | Exploiting HTTP request smuggling to capture other users' requests| practitioner| N/A|
 119|2026-09-12|HTTP request smuggling | Exploiting HTTP request smuggling to deliver reflected XSS| practitioner| N/A|
+120|2026-09-17|DOM-based vulnerabilities| DOM XSS using web messages| practitioner| N/A|
+121|2026-09-17|DOM-based vulnerabilities |DOM XSS using web messages and a JavaScript URL| practitioner| N/A|
+122|2026-09-17|DOM-based vulnerabilities | DOM XSS using web messages and JSON.parse| practitioner| N/A|
+
 
 
 
