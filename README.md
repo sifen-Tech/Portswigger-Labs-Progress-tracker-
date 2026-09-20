@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 40 of 61
+- **Apprentice**: 42 of 61
 - **Practitioner**: 83 of 174
 - **Expert**:  2 of 39
 
@@ -26,6 +26,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site request forgery (CSRF)**:9/11
 - **Server-side template injection**:6/7
 - **HTTP request smuggling**:7/22
+- **JWT**:2/8
 - **DOM-based vulnerabilities**:6/7
 
 ## Notes
@@ -172,6 +173,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 123|2026-09-18|DOM-based vulnerabilities | DOM-based open redirection| practitioner| N/A|
 124|2026-09-18|DOM-based vulnerabilities | DOM-based cookie manipulation| practitioner| N/A|
 125|2026-09-18|DOM-based vulnerabilities | Exploiting DOM clobbering to enable XSS| EXPERT| N/A|
+126|2026-09-20|JWT|JWT authentication bypass via unverified signatur| Apprentice | N/A|
+127|2026-09-20|JWT |JWT authentication bypass via flawed signature verification| Apprentice | N/A|
 
 
 
