@@ -7,7 +7,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Level progress
 - **Apprentice**: 42 of 61
 - **Practitioner**: 87 of 174
-- **Expert**:  2 of 39
+- **Expert**:  3 of 39
 
 ## Categories Covered
 
@@ -26,7 +26,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site request forgery (CSRF)**:9/11
 - **Server-side template injection**:6/7
 - **HTTP request smuggling**:7/22
-- **JWT**:6/8
+- **JWT**:7/8
 - **DOM-based vulnerabilities**:6/7
 
 ## Notes
@@ -179,6 +179,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 129|2026-09-24|JWT |JWT authentication bypass via weak signing key|  practitioner | N/A|
 130|2026-09-25|JWT |JWT authentication bypass via kid header path traversal|  practitioner | N/A|
 131|2026-09-25|JWT |JWT authentication bypass via jku header injection|  practitioner | N/A|
+132|2026-09-26|JWT |JWT authentication bypass via algorithm confusion|  EXPERT | N/A|
 
 
 
